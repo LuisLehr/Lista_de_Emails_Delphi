@@ -1,0 +1,57 @@
+# Delphi build outputs
+Win32/
+Win64/
+Android/
+iOSDevice64/
+OSX64/
+Debug/
+Release/
+__history/
+__recovery/
+
+# Compiled files
+*.exe
+*.dll
+*.bpl
+*.bpi
+*.dcp
+*.dcu
+*.dcuil
+*.drc
+*.map
+*.obj
+*.o
+*.rsm
+*.tds
+*.hpp
+*.lib
+*.a
+
+# Delphi local/user files
+*.dproj.local
+*.groupproj.local
+*.identcache
+*.local
+*.stat
+*.tvsconfig
+*.deployproj
+*.skincfg
+
+# Delphi backup/history files
+*.~*
+*.$$$
+*.bak
+*.backup
+
+# IDE/editor files
+.vs/
+.vscode/
+*.suo
+*.user
+*.tmp
+*.log
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
