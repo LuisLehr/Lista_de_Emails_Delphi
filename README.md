@@ -58,6 +58,11 @@ Lista de Emails/
 |-- unitDM.dfm                # Configuracao visual do DataModule
 |-- Listas/                   # Pasta onde as listas geradas sao salvas
 |   `-- listaTodos.txt
+    `-- listaMatriz.txt
+    `-- listaFilial6.txt
+    `-- listaFilial2.txt
+    `-- listaTodos1.txt
+    `-- listaTodos8.txt
 `-- Win32/Debug/              # Saida de compilacao em modo Debug
 ```
 
